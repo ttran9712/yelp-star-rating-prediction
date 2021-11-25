@@ -44,10 +44,10 @@ Confusion matrix and classification report
 
 ![ttran9712/yelp-star-rating-prediction/main/blob](images/model1_eval.png)
 
-Model performed well. Will including TF-IDF (statistical measure that evaluates how relevant a word is to a document in a collection of documents) in this process using Pipeline improve the model?
+Model performed well. Will including TF-IDF (statistical measure that evaluates how relevant a word is to a document in a collection of documents) in this process using SciKit Learn's pipeline improve the model?
 
 # Text Processing: using Term Frequency-Inverse Document Frequency (TF-IDF)
-Confusion matrix and classification report after using Pipeline
+Confusion matrix and classification report after using SciKit Learn's pipeline
 
 ![ttran9712/yelp-star-rating-prediction/main/blob](images/model2_eval.png)
 

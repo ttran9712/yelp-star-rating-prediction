@@ -1,4 +1,4 @@
-# yelp-star-rating-prediction
+# yelp-star-rating-predictor
 Goal: Accurately classify Yelp Reviews into 1 star or 5 star categories based off the text content in the reviews
 
 Data: Yelp Review Data Set from Kaggle (yelp.csv).
